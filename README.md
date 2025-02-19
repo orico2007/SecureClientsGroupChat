@@ -56,11 +56,8 @@ The communication follows a custom protocol using prefixed message lengths for s
 - Encrypted message storage.
 - Support for file sharing.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contributors
-- Your Name (@yourgithub)
+- Ori Cohen
 
 Feel free to contribute by submitting pull requests!
 
